@@ -46,10 +46,6 @@ The system follows a modular design approach:
 
 ---
 
-## 🚀 How to Run the Project
-
----
-
 ## 🎯 Learning Outcomes
 
 * Practical understanding of C programming fundamentals
@@ -74,4 +70,5 @@ The system follows a modular design approach:
 This project is developed for **educational purposes** and is open for learning and improvement.
 
 ---
+
 
